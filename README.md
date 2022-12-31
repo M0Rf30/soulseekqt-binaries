@@ -1,0 +1,1 @@
+# SoulSeekQT latest AppImages
